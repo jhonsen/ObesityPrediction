@@ -1,4 +1,4 @@
-# Predicting obesity, based on weekly habits 
+# Predicting obesity based on weekly habits 
 
 Project-2 at METIS Data Science bootcamp
 
