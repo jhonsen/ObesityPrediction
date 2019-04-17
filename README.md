@@ -14,7 +14,7 @@ Project-2 at METIS Data Science bootcamp
 
 Obesity-related diseases are the leading cause of death in the United States [1]. People that are obese have higher chances of developing heart disease, hypertension, stroke, and even (some) cancers [2]. Although nobody intentionally seeks ways to become obese, many would admit that they should live a better and healthier lifestyle. This irony brings into question how our (seemingly harmless) habits of snacking or dining out affects our chances of becoming obese. One may also wonder about the impact of physical exercise, or lack thereof, on our weight and overall health.    
 
-
+Read the full story in [my Blog](https://jhonsen.github.io/2019/03/01/Obesity-Prediction/)
 
 **Project Objectives**:
 
@@ -24,7 +24,7 @@ Obesity-related diseases are the leading cause of death in the United States [1]
 
 - [x] Deploy model using Flask and D3.js
 
-  
+![Fig](./docs/figures/shortervid.gif)
 
 **Code, notebooks, and documents**
 
