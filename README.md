@@ -25,7 +25,9 @@ Read the full story in [my Blog](https://jhonsen.github.io/2019/03/01/Obesity-Pr
 - [x] Deploy model using Flask and D3.js
 
 ![Fig](./docs/figures/shortervid.gif)
-
+  
+**Checkout this app**, [HERE](https://obesity-predictor.herokuapp.com/)
+  
 **Code, notebooks, and documents**
 
 - [Project_Report.md](./docs/Project_Report.md), [Project_Presentation.pptx](./docs/Project_Presentation.pptx), or [PDF](./docs/Project_Presentation.pdf) - project report on markdown and powerpoint (or pdf) formats 
